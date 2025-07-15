@@ -1,0 +1,16 @@
+{
+    "name": "bulahan/student-management",
+    "description": "Basic coding lang",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bulahan\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mailen B"
+        }
+    ],
+    "require": {}
+}
